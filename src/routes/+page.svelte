@@ -7,6 +7,9 @@
 			<div class="card-header">
 				<span>Something to do:</span>
 				<input type="text" class="input" placeholder="thing to do" />
+				<div class="flex flex-row-reverse mt-4">
+					<button class="btn variant-filled-primary">Get Started</button>
+				</div>
 			</div>
 		</div>
 	</div>
